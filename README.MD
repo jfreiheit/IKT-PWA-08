@@ -4,7 +4,7 @@ Dieses Projekt enthält das Grundgerüst einer Webanwendung. Auf diesem Grundger
 
 ## Stand und Branches
 
-Der aktuelle Stand ist der Zustand des Frontends bevor wir uns mit Hintergrundsynchronisation beschäftigen. Das zugehörige Backend kann [hier](https://github.com/jfreiheit/IKT-PWA-BACKEND-01) geklont werden.
+Der aktuelle Stand ist der Zustand des Frontends bevor wir uns mit HintergruPush Notifications beschäftigen. Das zugehörige Backend kann [hier](https://github.com/jfreiheit/IKT-PWA-BACKEND-08) geklont werden.
 
 Branches
 
